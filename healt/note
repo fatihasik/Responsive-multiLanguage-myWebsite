@@ -1,0 +1,10 @@
+const initialState={
+    
+    footerMessage:{
+        tr:'Bizi tercih ettiğiniz için teşekkür ederiz.Hediye ve fırsatlar için sosyal medya hesaplarımızı takip edebilirsiniz!',
+        en:'Thank you for choosing us. You can follow our social media accounts for gifts and offers!',
+        fr:'Merci de nous avoir choisis. Vous pouvez suivre nos comptes sur les réseaux sociaux pour des cadeaux et des offres !',
+        ru:'Спасибо за то, что выбрали нас. Вы можете следить за нашими социальными медиа для подарков и акций!',
+        ar:'شكرًا لاختياركم لنا. يمكنكم متابعة حساباتنا على وسائل التواصل الاجتماعي للهدايا والعروض!'
+    }
+}
